@@ -7,7 +7,7 @@
 
 ## Tecnologias mais usadas
 
-<div stryle="display: inline_block">
+<div style="display: inline_block">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
 <img align="center" alt="python" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> 
 <img align="center" alt="python" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
